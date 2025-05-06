@@ -1,5 +1,5 @@
 # Iris Flower Classification with Streamlit 🌸  
-#### Video Demo: [Watch the demo](<URL HERE>)
+#### Video Demo: [Watch the demo](<https://youtu.be/KTdDu_Qms-s>)
 
 ---
 
